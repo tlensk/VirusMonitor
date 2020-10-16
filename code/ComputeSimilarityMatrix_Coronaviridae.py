@@ -199,7 +199,7 @@ res = GetDictFromFile(fInName,"\t",1)
 d_host= res[1]
 print(len(d_host))
 
-t_list = res[0][0:2]
+t_list = res[0]
 
 n_list = len(t_list)
 pref = "3168_"

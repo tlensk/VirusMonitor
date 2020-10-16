@@ -1,1 +1,1 @@
-
+This folder contains a sequence of scripts for analyzing genome similarity between viruses for the purpose of monitoring emerging viruses. All code is written in Python with the exception of the minimum degree reordering that is implemented in MATLAB. 
